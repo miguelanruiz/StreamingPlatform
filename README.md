@@ -16,7 +16,7 @@ Una plataforma tiene un nombre, un logo, una descripción y una empresa que la p
 Un streamer tiene un nickname, una descripción y una lista de redes sociales. Cada stream realizado por un streamer en un canal tiene una lista de categorías que facilitan la búsqueda. Las categorías se refieren a actividades que ocurren durante un stream como juegos; espacios en los que se realiza el stream (en estudio. o en un espacio abierto); y temas que se abordan (música, política) Las categorías tienen un nombre, una descripción y una imagen.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miguelanruiz/MovieTheatre/master/UML.png" alt="Diagrama construido"/>
+  <img src="https://raw.githubusercontent.com/miguelanruiz/StreamingPlatform/master/UML.png" alt="Diagrama construido"/>
 </p>
 
 **Entregables**
